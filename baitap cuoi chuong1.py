@@ -1,0 +1,5 @@
+print (' Chao cac ban!')
+print('Pham Thi Truc Nhu')
+print(' Mình về mình có nhớ ta ?\n Mười lăm năm ấy thiết tha mặn nồng\n Mình về mình có nhớ không?\n Nhìn cây nhớ núi, nhìn sông nhớ nguồn.')
+chuoi =input(' nhap vao một chuoi: ')
+print('chuoi ban in ra la: ',chuoi)
